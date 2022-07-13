@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    color: red;
+    background-color: gray;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipes-list {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: lightcoral;
+}
+
+a {
+    color: lightcyan;
+}
+
+h3 {
+    padding-left: 40px;
+    color: red;
+}
+
+.ingredients {
+    padding-left: 150px;
+    background-color: rgb(62, 26, 145);
+    color: rgb(151, 241, 6);
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+}
+
+#steps {
+    padding-right: 30px;
+    color: rgb(154, 22, 187);
+}
+
+li {
+    margin-bottom: 3px;
+}
